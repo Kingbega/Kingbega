@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 * [🧑‍💻 Follow Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
 
 * [🧑‍💻 Join my whatsapp Group 🧑‍💻](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
 
-* [ 🧑‍💻 TAP here to open bot repo 🧑‍💻](https://github.com/Kingbega/BARAKA-MD-V1)
+* [ 🧑‍💻 Tap here to open bot repo 🧑‍💻](https://github.com/Kingbega/BARAKA-MD-V1)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
