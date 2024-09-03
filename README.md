@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 * [🧑‍💻 Join my whatsapp Group 🧑‍💻](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
 
-* [ 🧑‍💻 TAP here to open repo 🧑‍💻](https://github.com/Kingbega/BARAKA-MD-V1)
+* [ 🧑‍💻 TAP here to open bot repo 🧑‍💻](https://github.com/Kingbega/BARAKA-MD-V1)
