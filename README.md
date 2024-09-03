@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 * [ 🧑‍💻 Tap here to open bot repo 🧑‍💻](https://github.com/Kingbega/BARAKA-MD-V1)
 
-*  [ 🧑‍💻 Tap here to talk with me 🧑‍💻](https://wa.me/255762190568)
+*  [ 🧑‍💻 Tap here  to talk with me 🧑‍💻](https://wa.me/255762190568)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
