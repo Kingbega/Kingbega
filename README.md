@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Kingbega/Kingbega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-```
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-```
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -30,8 +15,11 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div id="header" align="center">
+  <img src="https://64.media.tumblr.com/d1acaa13b34b58735fc91a379303cff8/tumblr_pun53hNdAw1t2ijmjo1_540.gif" height="200"/> <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=your-github-FaouzKK&style=flat-square&color=blue" alt=""/>
 </div>
-
----
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
