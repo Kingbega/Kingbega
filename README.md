@@ -16,10 +16,10 @@
 
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/d1acaa13b34b58735fc91a379303cff8/tumblr_pun53hNdAw1t2ijmjo1_540.gif" height="120"/> <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-FaouzKK&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-Kingbega&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  hey there
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
