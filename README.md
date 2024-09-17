@@ -9,7 +9,7 @@
 
 * [ 🧑‍💻 Tap here to open bot repo 🧑‍💻](https://github.com/Kingbega/BARAKA-MD-V1)
 
-*  [ 🧑‍💻 Tap here  to talk with __me 🧑‍💻](https://wa.me/255762190568)
+*  [ 🧑‍💻 Tap here  to talk with__me 🧑‍💻](https://wa.me/255762190568)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -19,7 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-Kingbega&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
