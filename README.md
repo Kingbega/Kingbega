@@ -24,6 +24,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-# Wachannel 📞
+## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
+<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-![Wachannel](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
+## ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴋᴜᴘ
+<a href="https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Official Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
