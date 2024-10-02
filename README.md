@@ -22,16 +22,3 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Official  -Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-## ᴡʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ
-<a href="https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Official g-Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
