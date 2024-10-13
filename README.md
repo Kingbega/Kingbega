@@ -3,13 +3,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-* [🧑‍💻 Follow Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
+### :Baraka: How To Reach Me :
+<p align="center">
+<a href="https://youtube.com/@Barakabega"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@Barakabega" /><br>
+<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
+<a href="https://t.me/Barakabega"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
 
-* [🧑‍💻 Join my whatsapp Group 🧑‍💻](https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp)
-
-* [ 🧑‍💻 Tap here to open bot repo 🧑‍💻](https://github.com/Kingbega/BARAKA-MD-V1)
-
-*  [ 🧑‍💻 Tap here  to talk with__me 🧑‍💻](https://wa.me/255762190568)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
