@@ -1,14 +1,12 @@
-## HI THERE 👋
+<img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-### :Baraka: How To Reach Me :
+### :baraka: How To Reach Me :
 <p align="center">
 <a href="https://youtube.com/@Barakabega"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@Barakabega" /><br>
 <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
 <a href="https://t.me/Barakabega"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
