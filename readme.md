@@ -11,7 +11,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-- *How To Reach Me***
+- *How To Reach Me*
 
 <p align="center">
 <a href="https://wa.me/255762190568"><img src="https://img.shields.io/badge/whatsapp-ff0000?style=for-the-badge&logo=whatsapp&logoColor=ff000000&link=https://wa.me/255762190568" /><br>
