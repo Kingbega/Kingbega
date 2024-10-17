@@ -1,3 +1,8 @@
+_Hi I'm Baraka Bega_ 
+_Ask me about Baraka-MD_
+_[Am currently working on]_
+_(https://github.com/Kingbega/BARAKA-MD)_
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
