@@ -1,7 +1,12 @@
-_Hi I'm Baraka Bega_ 
-_Ask me about Baraka-MD_
-_[Am currently working on]_
-_(https://github.com/Kingbega/BARAKA-MD)_
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+- *Ask Me About **Nothing Baraka-MD***
+
+- *I'm Currently Working On **[BARAKA-MD](https://github.com/Kingbega/BARAKA-MD)***
+
+- *I'm Currently Learning **Web Development, Javascript***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
