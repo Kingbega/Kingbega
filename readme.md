@@ -4,7 +4,9 @@
 - *Hi I'm* *Baraka Bega🍀*
 
 - *Ask Me About* *Baraka-MD*
-
+ 
+- *Watch all tutorials **[TUTORIAL](https://www.tiktok.com/@_______bega1?_t=8qfkDA0O3Vt&_r=1)***
+  
 - *I'm Currently Working On **[BARAKA-MD](https://github.com/Kingbega/BARAKA-MD)***
 
 - *I'm Currently Learning **Web Development, Javascript***
