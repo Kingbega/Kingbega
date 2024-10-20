@@ -8,7 +8,7 @@
   
 - *I'm Currently Working On **[BARAKA-MD](https://github.com/Kingbega/BARAKA-MD)***
 
-- *I'm Currently Learning **Web Development, Javascript***
+- *I'm Currently Learning **[Web Development, Javascript](https://javascript.info)***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
