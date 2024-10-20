@@ -4,6 +4,8 @@
 
 - *17 Years Old **[DETAILS](https://linktr.ee/barakabega)***
 
+- *Living In Tanzania **[LOCATION](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/maps/%3Fq%3DDar%2520es%2520Salaam,%2BNone%2BTanzania&ved=2ahUKEwi6y-yvhJ2JAxULhP0HHehaHsAQFnoECB0QAQ&usg=AOvVaw3islFcMCnoPrvTh-YwUoEV)***
+   
 - *How To Deploy **[TUTORIAL](https://www.tiktok.com/@_______bega1?_t=8qfkDA0O3Vt&_r=1)***
 
 - *I'm Currently Learning **[JAVASCRIPT](https://javascript.info)***
