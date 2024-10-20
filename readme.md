@@ -6,7 +6,7 @@
 
 - *How To Deploy **[TUTORIAL](https://www.tiktok.com/@_______bega1?_t=8qfkDA0O3Vt&_r=1)***
 
-- *I'm Currently Learning **[JAVA-SCRIPT](https://javascript.info)***
+- *I'm Currently Learning **[JAVASCRIPT](https://javascript.info)***
  
 - *I'm Currently Working On **[BARAKA-MD](https://github.com/Kingbega/BARAKA-MD)***
 
