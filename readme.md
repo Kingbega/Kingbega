@@ -2,7 +2,7 @@
 
 - *Hi👋 I'm* *Baraka Bega🍀*
 
-- *17 years old **[DETAILS](https://linktr.ee/barakabega)***
+- *17 Years Old **[DETAILS](https://linktr.ee/barakabega)***
 
 - *Watch All Tutorials **[TUTORIAL](https://www.tiktok.com/@_______bega1?_t=8qfkDA0O3Vt&_r=1)***
 
