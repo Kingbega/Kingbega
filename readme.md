@@ -5,10 +5,10 @@
 - *Ask Me About* *Baraka-MD*
  
 - *Watch All Tutorials **[TUTORIAL](https://www.tiktok.com/@_______bega1?_t=8qfkDA0O3Vt&_r=1)***
-  
-- *I'm Currently Working On **[BARAKA-MD](https://github.com/Kingbega/BARAKA-MD)***
 
 - *I'm Currently Learning **[JAVA-SCRIPT](https://javascript.info)***
+ 
+- *I'm Currently Working On **[BARAKA-MD](https://github.com/Kingbega/BARAKA-MD)***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
