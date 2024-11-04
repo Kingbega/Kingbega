@@ -1,7 +1,5 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kingbega&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Kingbega)
 
-[![spotify-github-profile](https://spotify-github-profile.Kingbega.com/api/view?uid=31imxn4ijmhktgnml4elbp5zrc4u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/Kingbega/spotify-github-profile)
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
