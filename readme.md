@@ -17,6 +17,8 @@
  
 - *I'm Currently Working On **[BARAKA-MD](https://github.com/Kingbega/BARAKA-MD)***
 
+- *I only collaborating with  **[IBRAHIM-ADAMS](https://github.com/ibrahimtecg)***
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 - *How To Reach Me*
