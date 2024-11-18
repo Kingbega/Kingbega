@@ -11,13 +11,13 @@
 
 - *Living In Tanzania **[LOCATION](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/maps/%3Fq%3DDar%2520es%2520Salaam,%2BNone%2BTanzania&ved=2ahUKEwi6y-yvhJ2JAxULhP0HHehaHsAQFnoECB0QAQ&usg=AOvVaw3islFcMCnoPrvTh-YwUoEV)***
    
-- *How To Deploy Bot **[TUTORIALS](https://www.youtube.com/@baraka-bega)***
+- *How To Deploy Bot **[Tutorials](https://www.youtube.com/@baraka-bega)***
 
-- *I'm Currently Learning **[JAVASCRIPT](https://javascript.info)***
+- *I'm Currently Learning **[Javascript](https://javascript.info)***
  
-- *I'm Currently Working On **[BARAKA-MD](https://github.com/Kingbega/BARAKA-MD)***
+- *I'm Currently Working On **[Baraka-MD](https://github.com/Kingbega/BARAKA-MD)***
 
-- *I only collaborating with  **[IBRAHIM-ADAMS](https://github.com/ibrahimtecg)***
+- *I only collaborating with  **[Ibrahim-Adams](https://github.com/ibrahimtech)***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
