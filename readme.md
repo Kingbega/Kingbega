@@ -6,7 +6,7 @@
 
 - *Living In Tanzania **[Location](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/maps/%3Fq%3DDar%2520es%2520Salaam,%2BNone%2BTanzania&ved=2ahUKEwi6y-yvhJ2JAxULhP0HHehaHsAQFnoECB0QAQ&usg=AOvVaw3islFcMCnoPrvTh-YwUoEV)***
    
-- *Watch Tutorials on Yt **[Tutorials](https://www.youtube.com/@baraka-bega)***
+- *Watch Tutorials on Yt **[Tutorials](https://www.youtube.com/@baraka_bega)***
 
 - *I'm Currently Learning **[Javascript](https://javascript.info)***
  
