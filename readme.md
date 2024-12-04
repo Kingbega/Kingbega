@@ -26,6 +26,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kingbega&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kingbega&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
