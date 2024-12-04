@@ -22,3 +22,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbega&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kingbega&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kingbega&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
