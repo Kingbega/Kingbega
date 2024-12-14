@@ -28,13 +28,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingbega&repo=Kingbega&theme=radical "Kingbega")](https://github.com/Kingbega/Kingbega)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingbega&repo=Dmin-Dashboard-v23&theme=highcontrast "Dmin-Dashboard-v23")](https://github.com/Kingbega/Dmin-Dashboard-v23)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kingbega&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
