@@ -2,7 +2,7 @@
 
 - *Hi I'm* *Baraka Bega*
 
-- *17 Years Old **[Details](https://linktr.ee/barakabega)***
+- *18 Years Old **[Details](https://linktr.ee/barakabega)***
 
 - *Living In Tanzania **[Location](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/maps/%3Fq%3DDar%2520es%2520Salaam,%2BNone%2BTanzania&ved=2ahUKEwi6y-yvhJ2JAxULhP0HHehaHsAQFnoECB0QAQ&usg=AOvVaw3islFcMCnoPrvTh-YwUoEV)***
    
@@ -25,6 +25,12 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kingbega&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### 👀 Active Repo
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingbega&repo=Kingbega&theme=radical "Kingbega")](https://github.com/Kingbega/Kingbega)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kingbega&repo=Dmin-Dashboard-v23&theme=highcontrast "Dmin-Dashboard-v23")](https://github.com/Kingbega/Dmin-Dashboard-v23)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
