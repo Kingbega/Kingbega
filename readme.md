@@ -32,3 +32,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kingbega&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+[![Baraka Bega WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Kingbega)
+<br>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Baraka Bega" />
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
