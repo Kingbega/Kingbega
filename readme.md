@@ -41,9 +41,13 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p> <b>Connect With me:</b></p>
-<p>
-<a href="https://wa.me/255762190568"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/baraka_bega"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/ngire.baraka_bega"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://emil.to/barakachachabega@gmail.com"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="12%"> </a><a href="https://twitter.com/baraka_bega"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
-</p>
+
+<a href="http://wa.me/+255762190568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255762190568" height="30" width="40" /></a>
+
+
+<a href="http://t.me/baraka_bega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="baraka_bega" height="30" width="40" /></a>
+
+<a href="https://youtube.com/@baraka_bega-vn9pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Baraka Bega" height="30" width="40" /></a>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
