@@ -1,5 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
+
 - *Hi I'm* *Baraka Bega*
 
 - *18 Years Old **[Details](https://linktr.ee/barakabega)***
