@@ -1,10 +1,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
 
 - *Hi I'm* *Baraka Bega*
 
-- *18 Years Old **[Details](https://linktr.ee/barakabega)***
+- *17 Years Old **[Details](https://linktr.ee/barakabega)***
 
 - *Living In Tanzania **[Location](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/maps/%3Fq%3DDar%2520es%2520Salaam,%2BNone%2BTanzania&ved=2ahUKEwi6y-yvhJ2JAxULhP0HHehaHsAQFnoECB0QAQ&usg=AOvVaw3islFcMCnoPrvTh-YwUoEV)***
    
@@ -36,9 +35,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 [![Baraka Bega WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Kingbega)
-<br>
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Baraka Bega" />
-</p>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
