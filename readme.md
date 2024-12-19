@@ -40,14 +40,3 @@
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<a href="http://wa.me/+255762190568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255762190568" height="30" width="40" /></a>
-
-
-<a href="http://t.me/baraka_bega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Telegram.svg" alt="baraka_bega" height="30" width="40" /></a>
-
-<a href="https://youtube.com/@baraka_bega-vn9pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Baraka Bega" height="30" width="40" /></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
