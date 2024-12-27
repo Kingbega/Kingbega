@@ -40,13 +40,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-########## <a href="mailto:barakachachabega@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
+## Contact me 📞 ✉️ 
+<a href="mailto:barakachachabega@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
 <a href="https://paypal.me/baraka_bega"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/paypal_icon-icons.com_62759.png"></a>
 <a href="https://www.instagram.com/baraka_bega"><img height="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"></a>
 <a href="https://youtube.com/@baraka_bega"><img height="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580651-yumminkysocialmedia28_83061.png"></a>
 <a href="https://www.facebook.com/baraka_bega"><img height="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png"></a>
 <a href="https://wa.me/255762190568"><img height="40" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png"></a>
 <a href="https://www.tiktok.com/@baraka_bega"><img height="40" src="https://cdn.icon-icons.com/icons2/2972/PNG/512/tiktok_logo_icon_186896.png"></a>
-<a href="https://t.me/baraka_bega"><img height="40" src="https://cdn.icon-icons.com/icons2/2972/PNG/512/telegram_logo_icon_186896.png"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
