@@ -40,7 +40,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## Contact me 📞 ✉️ 
+## `CONTACT ME`
 <a href="mailto:barakachachabega@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
 <a href="https://paypal.me/baraka_bega"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/paypal_icon-icons.com_62759.png"></a>
 <a href="https://www.instagram.com/baraka_bega"><img height="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"></a>
